@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(24, 23, 6);
+}
+
+form {
+  margin-top: 300px;
+  text-align: center;
+}
+
+label {
+  background-color: rgb(238, 252, 42);
+  text-align: center;
+  color: rgb(0, 0, 0);
+  width: 30px;
+  right: 30px;
+}
+
+input {
+  text-align: center;
+  border-radius: 6px;
+  border-color: yellow;
+  width: 150px;
+  height: 30px;
+  border-width: 2px;
+
+  color: black;
+}
+
+.div label {
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.div {
+  margin-block: auto;
+  margin: 10px;
+}
+
+.div input {
+  margin-left: 10px;
+}
